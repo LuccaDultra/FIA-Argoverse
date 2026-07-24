@@ -10,7 +10,7 @@ Este projeto aplica técnicas de Machine Learning para resolver o problema de *M
 *   **Luciano Ferreira de Queiroz:** Responsável pela etapa de Modelagem Preditiva e Avaliação de desempenho. Estruturou o isolamento do conjunto de testes (20%) e o modelo *Baseline*, treinando e comparando os algoritmos de Regressão Linear, Árvore de Decisão e Random Forest. Justificou a escolha do Random Forest com base nas métricas (RMSE e MAE) e interpretou o comportamento dos modelos frente a padrões espaciais não-lineares (como curvas), além de documentar as limitações e melhorias futuras do projeto.
 
 ## 🎥 Link do Vídeo de Apresentação
-🔗 **[https://drive.google.com/drive/folders/13kqOD-Yswe9DGNY8y4vQ7Vxw6uWuEpsg?usp=sharing]**
+🔗 **[https://drive.google.com/file/d/1zXHhQJGx5kHQ2LIsj3rOed_w0DWtoult/view?usp=sharing]**
 
 #### *(Nota: O vídeo contém a identificação e explicação de todos os membros do grupo, conforme exigido nas diretrizes do projeto).*
 ---

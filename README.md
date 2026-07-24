@@ -9,8 +9,8 @@ Este projeto aplica técnicas de Machine Learning para resolver o problema de *M
 *   **Lucca Pedreira Dultra:** Liderou a etapa de Análise Exploratória de Dados (EDA) e o pré-processamento matemático. Criou e analisou histogramas e matrizes de correlação, identificando a assimetria na velocidade dos veículos e a forte relação de inércia da última posição conhecida com o destino futuro. Foi o responsável pela decisão de aplicar a técnica de *Flattening* (transformando a série temporal em atributos tabulares) e pela aplicação cuidadosa do *StandardScaler* para evitar vazamento de dados.
 *   **Luciano Ferreira de Queiroz:** Responsável pela etapa de Modelagem Preditiva e Avaliação de desempenho. Estruturou o isolamento do conjunto de testes (20%) e o modelo *Baseline*, treinando e comparando os algoritmos de Regressão Linear, Árvore de Decisão e Random Forest. Justificou a escolha do Random Forest com base nas métricas (RMSE e MAE) e interpretou o comportamento dos modelos frente a padrões espaciais não-lineares (como curvas), além de documentar as limitações e melhorias futuras do projeto.
 
-## 🎥 Link do Vídeo de Apresentação
-🔗 **[https://drive.google.com/file/d/1zXHhQJGx5kHQ2LIsj3rOed_w0DWtoult/view?usp=sharing]**
+## 🎥 Vídeo de Apresentação
+🔗 ![Video-Apresentacao](./VideoFIA.mp4)
 
 #### *(Nota: O vídeo contém a identificação e explicação de todos os membros do grupo, conforme exigido nas diretrizes do projeto).*
 ---
@@ -72,6 +72,7 @@ Certifique-se de ter o Python 3.8+ instalado e as seguintes bibliotecas:
 *   **`processing-dataset.py`**: Script Python utilizado localmente para ler, extrair, filtrar e processar os dados originais, transformando-os no arquivo `.parquet` final.
 *   **`README.md`**: Este arquivo de documentação, contendo o resumo, instruções e detalhes do projeto.
 *   **`requirements.txt`**: Arquivo contendo a lista de dependências e bibliotecas do Python necessárias para a execução do projeto.
+*   **`VideoFIA.mp4`**: Vídeo oficial de apresentação do projeto, contendo a explicação do código, justificativas de decisões técnicas e discussão dos resultados pelos integrantes.
 
 ## 🧠 Declaração de Uso de Ferramentas de Inteligência Artificial
 

@@ -1,0 +1,1 @@
+Arquivo sibolico para o que foi baixado e extraido, na fonte https://www.argoverse.org/av1.html, link https://s3.amazonaws.com/argoverse/datasets/av1.1/tars/forecasting_train_v1.1.tar.gz 

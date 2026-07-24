@@ -12,6 +12,8 @@ Este projeto aplica técnicas de Machine Learning para resolver o problema de *M
 ## 🎥 Vídeo de Apresentação
 🔗 ![Video-Apresentacao](./VideoFIA.mp4)
 
+Só clicar ou ir nos arquivos do repositorio para baixar o video
+
 #### *(Nota: O vídeo contém a identificação e explicação de todos os membros do grupo, conforme exigido nas diretrizes do projeto).*
 ---
 
